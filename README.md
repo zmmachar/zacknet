@@ -1,4 +1,4 @@
-zacknet
+Zacknet
 =======
 
-Personal website
+The source for my personal website
