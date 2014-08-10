@@ -1,0 +1,11 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "angular": "1.2.18",
+    "angular-ui-router": "0.2.0"
+  },
+  "devDependencies": {
+    "jasmine-sinon": "latest",
+    "jasmine-matchers": "latest"
+  }
+}
